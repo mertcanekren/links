@@ -1,0 +1,6 @@
+title: My Favorite Links
+description: Collection of my favorite links
+baseurl: ""
+url: ""
+
+permalink: /:year/:month/:day/
