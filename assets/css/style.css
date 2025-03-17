@@ -1,0 +1,30 @@
+.link-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.link-container h2 {
+    color: #333;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+    margin-top: 30px;
+}
+
+.link-container ul {
+    list-style: none;
+    padding: 0;
+}
+
+.link-container li {
+    margin: 15px 0;
+}
+
+.link-container a {
+    color: #0366d6;
+    text-decoration: none;
+}
+
+.link-container a:hover {
+    text-decoration: underline;
+}
