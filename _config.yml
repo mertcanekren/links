@@ -1,6 +1,6 @@
 title: My Favorite Links
 description: Collection of my favorite links
-baseurl: ""
-url: ""
+baseurl: "links"
+url: "https://mertcanekren.github.io/links/"
 
 permalink: /:year/:month/:day/
